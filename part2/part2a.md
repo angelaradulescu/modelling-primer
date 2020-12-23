@@ -18,7 +18,7 @@ Choose one of the hypotheses you wrote down above (you can choose the primary hy
 
 ### Checking our assumptions
 
-One thing model comparison helps us be more precise about is our assumptions. Can you think of any assumptions you have made when formulating your hypothesis? 
+One thing model comparison helps us do is be more precise about is our assumptions. Can you think of any assumptions you have made when formulating your hypothesis? 
 
 ### Writing down the model 
 
