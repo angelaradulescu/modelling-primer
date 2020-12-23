@@ -1,0 +1,1 @@
+This repository is a continuation of the modelling curriculum described [here](https://github.com/danielbrianbennett/modelling-primer).  
